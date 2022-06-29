@@ -3,3 +3,12 @@ body{
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+.head{
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+}
+.desc{
+    font-size: 16px;
+    color: aquamarine;
+}
